@@ -43,4 +43,4 @@ The easiest way to view the working demo is to run the provided Colab notebook, 
 
 ## 📊 Sample Output
 
-*(Include a screenshot here showing the successful Gradio interactive UI with a clear SPAM or NOT-SPAM result.)*
+<img width="1674" height="626" alt="Screenshot 2025-12-12 164202" src="https://github.com/user-attachments/assets/5a4f6ab6-bfb8-4a12-9480-572457c9686c" />
